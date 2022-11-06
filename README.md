@@ -1,4 +1,4 @@
-# Hi, I'm Rafael Pinto
+# Hi, I'm Rafael Pinto 
 Web Developer
 
 Connect with me:
@@ -11,4 +11,3 @@ Connect with me:
 - ## Languages and Tools:
 <img src="https://cdn.jsdelivr.net/gh/devicons/devicon/icons/git/git-original.svg" width="28" height="28"/>
 
-[![Top Langs](https://github-readme-stats.vercel.app/api/top-langs/?username=rafaelpinto1&layout=compact)](https://github.com/rafaelpinto1/github-readme-stats)
