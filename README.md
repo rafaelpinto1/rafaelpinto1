@@ -1,38 +1,69 @@
-<h1 align="center">👋 Hi, I'm Rafael Pinto</h1>
-<h3 align="center">Especialista em TI</h3>
+<h1 align="center">👋 Olá, eu sou Rafael Amaral dos Santos Pinto</h1>
+<h3 align="center">🌟 Especialista em Tecnologia da Informação</h3>
 
 ---
 
-<h3 align="left">Connect with me:</h3>
-<p align="left">
-  [![GitHub Badge](https://img.shields.io/badge/-GitHub-000?style=flat-square&logo=Github&logoColor=white&link=https://github.com/rafaelpinto1)](https://github.com/rafaelpinto1)
-  [![LinkedIn Badge](https://img.shields.io/badge/-LinkedIn-blue?style=flat-square&logo=Linkedin&logoColor=white&link=https://www.linkedin.com/in/rafaelpinto1/)](https://www.linkedin.com/in/rafaelpinto1/)
-</p>
+<h3 align="left">📞 Contato:</h3>
+- **Telefone:** +55 21 98590-0023
+- **Email:** [rafael-pinto@outlook.com.br](mailto:rafael-pinto@outlook.com.br)
+- **LinkedIn:** [linkedin.com/in/rafaelpinto1](https://linkedin.com/in/rafaelpinto1)
 
 ---
 
-### About Me
-- 🌱 I’m currently learning about **Front-end Development**
-- 💬 Improving my skills in **HTML, JavaScript & CSS**
-- 📫 Reach me at: **rafael.tsb2015@gmail.com**
+### 🎯 Objetivo
+🔍 **Atuar no departamento de Tecnologia.**
 
 ---
 
-<h3 align="left">Languages and Tools:</h3>
-<p align="left">
+### 🎓 Formação Educacional
+- **Graduação em Análise e Desenvolvimento de Sistemas**  
+  **Instituição:** UNISUAM – Centro Universitário Augusto Motta  
+  **Conclusão Prevista:** Dezembro de 2024 🎓
+
+---
+
+### 📜 Certificações & Competências
+- 🔐 CISCO Cybersecurity
+- ☁️ AWS Cloud
+- 🚗 CNH AB (Com EAR)
+- 🇬🇧 Inglês Intermediário
+- 💻 Office 365
+- 🌐 IoT
+- 📊 Sistema SAP
+- 📑 Sistema Protheus
+- 🎓 Técnico em Administração
+- 🐧 Vivência em Linux
+
+---
+
+### 💻 Linguagens e Ferramentas Usadas
+<div align="left">
+  <img src="https://cdn.jsdelivr.net/gh/devicons/devicon/icons/javascript/javascript-original.svg" width="40" height="40" alt="JavaScript"/>
+  <img src="https://cdn.jsdelivr.net/gh/devicons/devicon/icons/csharp/csharp-original.svg" width="40" height="40" alt="C#"/>
+  <img src="https://cdn.jsdelivr.net/gh/devicons/devicon/icons/php/php-original.svg" width="40" height="40" alt="PHP"/>
+  <img src="https://cdn.jsdelivr.net/gh/devicons/devicon/icons/mysql/mysql-original-wordmark.svg" width="40" height="40" alt="MySQL"/>
   <img src="https://cdn.jsdelivr.net/gh/devicons/devicon/icons/git/git-original.svg" width="40" height="40" alt="Git"/>
-  <img src="https://raw.githubusercontent.com/devicons/devicon/master/icons/csharp/csharp-original.svg" alt="C#" width="40" height="40"/> 
-  <img src="https://raw.githubusercontent.com/devicons/devicon/master/icons/php/php-original.svg" alt="PHP" width="40" height="40"/>
-  <img src="https://raw.githubusercontent.com/devicons/devicon/master/icons/mysql/mysql-original-wordmark.svg" alt="MySQL" width="40" height="40"/>
-  <img src="https://raw.githubusercontent.com/devicons/devicon/master/icons/javascript/javascript-original.svg" alt="JavaScript" width="40" height="40"/>
-</p>
+</div>
+
+### 🌟 Animando com as Tecnologias!
+🎉 **JavaScript** - Usado para criar interatividade em aplicações web!  
+✨ **C#** - Aplicado no desenvolvimento de software robusto!  
+🌐 **PHP** - Utilizado para construir sites dinâmicos!  
+📊 **MySQL** - Essencial para gerenciar bancos de dados!  
+🛠️ **Git** - Fundamental para controle de versão e colaboração!
 
 ---
 
-<h3 align="left">GitHub Stats:</h3>
-<p align="center">
-  <img align="center" src="https://github-readme-stats.vercel.app/api?username=rafaelpinto1&show_icons=true&theme=radical&bg_color=0d1117&hide_border=true&locale=en" alt="rafaelpinto1"/>
-  <img align="center" src="https://github-readme-stats.vercel.app/api/top-langs?username=rafaelpinto1&show_icons=true&theme=radical&bg_color=0d1117&hide_border=true&locale=en&layout=compact" alt="rafaelpinto1" />
-</p>
+### 📂 Experiências Profissionais
+💼 As minhas experiências podem ser vistas no meu portfólio: [rafaelpinto1.github.io/portfolio](https://rafaelpinto1.github.io/portfolio/)
 
 ---
+
+### 🌱 Interesses
+- 🤖 Inteligência Artificial
+- 💻 Desenvolvimento de Sistemas
+
+---
+
+### 🔗 Conexões
+✨ Estou sempre aberto a novas conexões e oportunidades. Se você deseja discutir sobre tecnologia ou colaborar em projetos, sinta-se à vontade para me contatar! ✨
