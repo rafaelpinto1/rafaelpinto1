@@ -1,69 +1,60 @@
-<h1 align="center">👋 Olá, eu sou Rafael Pinto</h1>
+<h1 align="center">👋 Olá, eu sou Rafael Amaral dos Santos Pinto</h1>
 <h3 align="center">🌟 Especialista em Tecnologia da Informação</h3>
 
 ---
 
 <h3 align="left">📞 Contato:</h3>
-*Telefone:* +55 21 98590-0023
-- **Email:** [rafael-pinto@outlook.com.br](mailto:rafael-pinto@outlook.com.br)
-- **LinkedIn:** [linkedin.com/in/rafaelpinto1](https://linkedin.com/in/rafaelpinto1)
+<p>
+  <strong>Telefone:</strong> +55 21 98590-0023<br>
+  <strong>Email:</strong> <a href="mailto:rafael-pinto@outlook.com.br">rafael-pinto@outlook.com.br</a><br>
+  <strong>LinkedIn:</strong> <a href="https://linkedin.com/in/rafaelpinto1">linkedin.com/in/rafaelpinto1</a>
+</p>
 
 ---
 
-### 🎯 Objetivo
-🔍 **Atuar no departamento de Tecnologia.**
+<h3>🎯 Objetivo</h3>
+<p>Atuar no departamento de Tecnologia.</p>
 
 ---
 
-### 🎓 Formação Educacional
-- **Graduação em Análise e Desenvolvimento de Sistemas**  
-  **Instituição:** UNISUAM – Centro Universitário Augusto Motta  
-  **Conclusão Prevista:** Dezembro de 2024 🎓
+<h3>🎓 Formação Educacional</h3>
+<p>
+  <strong>Graduação em Análise e Desenvolvimento de Sistemas</strong><br>
+  <strong>Instituição:</strong> UNISUAM – Centro Universitário Augusto Motta<br>
+  <strong>Conclusão Prevista:</strong> Dezembro de 2024
+</p>
 
 ---
 
-### 📜 Certificações & Competências
-- 🔐 CISCO Cybersecurity
-- ☁️ AWS Cloud
-- 🚗 CNH AB (Com EAR)
-- 🇬🇧 Inglês Intermediário
-- 💻 Office 365
-- 🌐 IoT
-- 📊 Sistema SAP
-- 📑 Sistema Protheus
-- 🎓 Técnico em Administração
-- 🐧 Vivência em Linux
+<h3>📜 Certificações & Competências</h3>
+<ul>
+  <li>🔐 CISCO Cybersecurity</li>
+  <li>☁️ AWS Cloud</li>
+  <li>🚗 CNH AB (Com EAR)</li>
+  <li>🇬🇧 Inglês Intermediário</li>
+  <li>💻 Office 365</li>
+  <li>🌐 IoT</li>
+  <li>📊 Sistema SAP</li>
+  <li>📑 Sistema Protheus</li>
+  <li>🎓 Técnico em Administração</li>
+  <li>🐧 Vivência em Linux</li>
+</ul>
+
 
 ---
 
-### 💻 Linguagens e Ferramentas Usadas
-<div align="left">
-  <img src="https://cdn.jsdelivr.net/gh/devicons/devicon/icons/javascript/javascript-original.svg" width="40" height="40" alt="JavaScript"/>
-  <img src="https://cdn.jsdelivr.net/gh/devicons/devicon/icons/csharp/csharp-original.svg" width="40" height="40" alt="C#"/>
-  <img src="https://cdn.jsdelivr.net/gh/devicons/devicon/icons/php/php-original.svg" width="40" height="40" alt="PHP"/>
-  <img src="https://cdn.jsdelivr.net/gh/devicons/devicon/icons/mysql/mysql-original-wordmark.svg" width="40" height="40" alt="MySQL"/>
-  <img src="https://cdn.jsdelivr.net/gh/devicons/devicon/icons/git/git-original.svg" width="40" height="40" alt="Git"/>
-</div>
-
-### 🌟 Animando com as Tecnologias!
-🎉 **JavaScript** - Usado para criar interatividade em aplicações web!  
-✨ **C#** - Aplicado no desenvolvimento de software robusto!  
-🌐 **PHP** - Utilizado para construir sites dinâmicos!  
-📊 **MySQL** - Essencial para gerenciar bancos de dados!  
-🛠️ **Git** - Fundamental para controle de versão e colaboração!
+<h3>📂 Experiências Profissionais</h3>
+<p>💼 As minhas experiências podem ser vistas no meu portfólio: <a href="https://rafaelpinto1.github.io/portfolio/">rafaelpinto1.github.io/portfolio</a></p>
 
 ---
 
-### 📂 Experiências Profissionais
-💼 As minhas experiências podem ser vistas no meu portfólio: [rafaelpinto1.github.io/portfolio](https://rafaelpinto1.github.io/portfolio/)
+<h3>🌱 Interesses</h3>
+<ul>
+  <li>🤖 Inteligência Artificial</li>
+  <li>💻 Desenvolvimento de Sistemas</li>
+</ul>
 
 ---
 
-### 🌱 Interesses
-- 🤖 Inteligência Artificial
-- 💻 Desenvolvimento de Sistemas
-
----
-
-### 🔗 Conexões
-✨ Estou sempre aberto a novas conexões e oportunidades. Se você deseja discutir sobre tecnologia ou colaborar em projetos, sinta-se à vontade para me contatar! ✨
+<h3>🔗 Conexões</h3>
+<p>✨ Estou sempre aberto a novas conexões e oportunidades. Se você deseja discutir sobre tecnologia ou colaborar em projetos, sinta-se à vontade para me contatar! ✨</p>
