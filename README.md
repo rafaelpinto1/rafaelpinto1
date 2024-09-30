@@ -1,4 +1,4 @@
-<h1 align="center">👋 Hello Word, I am Rafael Pinto</h1>
+<h1 align="center">👋 Hello world, I am Rafael Pinto</h1>
 <h3 align="center">🖥️ Technology Specialist</h3>
 
 ---
