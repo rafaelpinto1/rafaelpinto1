@@ -1,10 +1,10 @@
-<h1 align="center">👋 Olá, eu sou Rafael Amaral dos Santos Pinto</h1>
+<h1 align="center">👋 Olá, eu sou Rafael Pinto</h1>
 <h3 align="center">🌟 Especialista em Tecnologia da Informação</h3>
 
 ---
 
 <h3 align="left">📞 Contato:</h3>
-- **Telefone:** +55 21 98590-0023
+*Telefone:* +55 21 98590-0023
 - **Email:** [rafael-pinto@outlook.com.br](mailto:rafael-pinto@outlook.com.br)
 - **LinkedIn:** [linkedin.com/in/rafaelpinto1](https://linkedin.com/in/rafaelpinto1)
 
